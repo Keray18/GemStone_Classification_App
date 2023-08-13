@@ -1,0 +1,16 @@
+/* Define media query for screens up to 600px wide (typical mobile devices) */
+@media (max-width: 600px) {
+  /* Adjust styles for smaller screens */
+  .container {
+    width: 80%; /* Make the container wider for better mobile layout */
+  }
+  
+  .container img {
+    max-width: 100%; /* Ensure the image scales within the container */
+  }
+  
+  .buttons label {
+    font-size: 1rem; /* Reduce font size for buttons */
+    padding: 0.5rem 1rem; /* Adjust padding for buttons */
+  }
+}

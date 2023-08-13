@@ -1,0 +1,6 @@
+Flask
+opencv-python
+tensorflow
+tensorflow-hub
+flask-cors
+pillow
