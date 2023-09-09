@@ -23,7 +23,9 @@ To provide a user-friendly interface for gemstone classification.
 ## 3. Dataset
 The dataset used for training and testing the Gemstone Classification model consists of high-quality images of different gemstone types. This dataset contains 3,200+ images of different gemstones. The images are grouped into 87 classes which are already divided into train and test data.
 
-[For more info](https://www.kaggle.com/datasets/lsind18/gemstones-images) 
+[For More Info](https://www.kaggle.com/datasets/lsind18/gemstones-images)
+
+To access and download the gemstone dataset mentioned, please click on the above link☝️ .
 
 ## 4. Dependencies
 Before running the Gemstone Classification application, ensure that you have the following dependencies installed:
