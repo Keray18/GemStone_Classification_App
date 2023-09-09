@@ -4,7 +4,7 @@
 1. Introduction
 2. Project Overview
 3. Dataset
-4. Dependencies
+4. Requirements
 5. Installation
 6. Running the App
 
@@ -24,16 +24,13 @@ The dataset used for training and testing the Gemstone Classification model cons
 
 ☝️ To access and download the gemstone dataset mentioned, please click on the above link.
 
-## 4. Dependencies
-Before running the Gemstone Classification application, ensure that you have the following dependencies installed:
+## 4. Requirements
+Before running the Gemstone Classification application, ensure that you have the following requirements checked ✅ :
 
 ```
-TensorFlow (version 2.x)
-Tensorflow_Hub (version 2.x)
-OpenCV (version 4.x)
-Flask (version 2.x)
-Numpy (version 1.x)
-PIL (Python Imaging Library)
+An IDE (preferred: VS Code)
+Node JS 
+GitCLI
 ```
 
 You can install these dependencies using pip, Python's package manager.
