@@ -35,7 +35,7 @@ Node JS
 GitCLI
 ```
 
-You can install these dependencies using pip, Python's package manager.
+You can find these on Google and can download from the website.
 
 ## 5. Installation
 Follow these steps to install the required dependencies:
