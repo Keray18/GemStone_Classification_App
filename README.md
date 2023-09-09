@@ -29,7 +29,9 @@ Before running the Gemstone Classification application, ensure that you have the
 
 ```
 An IDE (preferred: VS Code)
-Node JS 
+
+Node JS
+ 
 GitCLI
 ```
 
