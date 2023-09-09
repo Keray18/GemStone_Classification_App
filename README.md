@@ -1,6 +1,6 @@
 # GemStone_Classification_App
 
-**Table of Contents**
+## Table of Contents
 1. Introduction
 2. Project Overview
 3. Dataset
@@ -10,10 +10,10 @@
 7. Conclusion
 
 
-**1. Introduction**
+## 1. Introduction
 This documentation provides an overview of the Gemstone Classification project, detailing the purpose, dataset used, dependencies, and instructions for installation and running the application.
 
-**2. Project Overview**
+## 2. Project Overview
 The Gemstone Classification project is a machine learning-based application designed to identify and classify gemstones based on their visual characteristics. This project utilizes image data of various gemstones to train a machine learning model, which can then predict the type or class of a given gemstone image.
 
 The primary goals of this project are:
