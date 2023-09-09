@@ -29,9 +29,8 @@ Please note that the dataset used in this project is not included in this docume
 Before running the Gemstone Classification application, ensure that you have the following dependencies installed:
 
 ```
-Python (version 3.6 or higher)
 TensorFlow (version 2.x)
-Keras (version 2.x)
+Tensorflow_Hub (version 2.x)
 OpenCV (version 4.x)
 Flask (version 2.x)
 Numpy (version 1.x)
